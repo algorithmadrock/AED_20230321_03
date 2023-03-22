@@ -6,14 +6,14 @@ DATA        : 21/03/2023
 
 package controller;
 
-import br.edu.fateczl.pilhas.Pilha;
+import br.edu.fateczl.pilhas.IntPilha;
 
 public class Controller {
 	public long fatorial(int n) throws Exception {
 		//jogo o problema não resolvido do pop para a variável de cima
 		
 		long fatorial = 1; //seria o equivalente a 0!
-		Pilha pilha = new Pilha();
+		IntPilha pilha = new IntPilha();
 		
 //		usando a ideia de pilha, primeiro carregarei minha pilha com a sequencia fatorial
 		while (n != 0) {
