@@ -9,6 +9,10 @@ package controller;
 import br.edu.fateczl.pilhas.IntPilha;
 
 public class Controller {
+	
+	public Controller() {
+		// TODO Auto-generated constructor stub
+	}
 	public long fatorial(int n) throws Exception {
 		//jogo o problema não resolvido do pop para a variável de cima
 		
