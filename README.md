@@ -1,4 +1,4 @@
-# AED_20230321_03
+# AED_20230321_3
   Enunciado
 		Baseado na lógica do Exercício 2 (fazer a lógica do calculo de fatorial utilizando pilhas dinâmicas), criar uma aplicação Java, baseada na biblioteca de pilha de int, que faça:
 			1) Criar uma classe view (Principal.java) que, na main:
